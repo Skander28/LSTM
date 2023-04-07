@@ -1,5 +1,9 @@
 ## 1- data preprocessing
 ## 2- LSTM :
+               recall_score : 0.7877673672498589
+               precision_score : 0.7878267057080199
+               accuracy_score: 0.7881321090859257
+               f1_score: 0.7874140608853802
 ## 3- Bilstm-SA : 
                   Test Accuracy: 0.7977
                   Test f1 score: 0.8328
