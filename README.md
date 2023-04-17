@@ -41,12 +41,12 @@
                   Test precision: 0.9187
                   Test recall: 0.8887
 ## 4- Arabert :   
-       ### data preprocessed:(11 epochs)
+       ### data preprocessed:(4 epochs)
                   macro_f1: 0.8537773150786143
                   macro_precision: 0.8559025206394384
                   macro_recall: 0.8545235727316383
                   eval_accuracy: 0.8541143144332252
-       ### (Oversampling + Lemmatisation): (10 epochs)
+       ### (Oversampling + Lemmatisation): (4 epochs)
                   macro_f1: 0.9167411615817109
                   macro_precision: 0.9173708659175648
                   macro_recall: 0.9172294395960003
