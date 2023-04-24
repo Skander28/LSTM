@@ -40,6 +40,11 @@
                   Test f1 score: 0.9033
                   Test precision: 0.9187
                   Test recall: 0.8887
+       ### (Oversampling + Lemmatisation): (10 epochs) (5 dialects)
+                  Test Accuracy: 0.8317
+                  Test f1 score: 0.8676
+                  Test precision: 0.8939
+                  Test recall: 0.8442          
 ## 4- Arabert :   
        ### data preprocessed:(4 epochs)
                   macro_f1: 0.8537773150786143
